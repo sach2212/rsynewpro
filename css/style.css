@@ -102,7 +102,7 @@ section{
     background-position: center;
      text-align: center;
      background-image: 
-      url('/image/letter-bg.png');
+      url('../image/letter-bg.png');
      /* height: 80vh; */
    
 }
@@ -402,7 +402,7 @@ transform: scale(1);
 
                 width: 100vw;
                 height: 90vh;
-                background: url('images/bg3.jpg');
+                background: url('../images/bg3.jpg');
                 background-image: 
                 linear-gradient(
                 rgba(0, 0, 0, 0.2),
@@ -874,7 +874,7 @@ transform: scale(1);
      background-image: 
      linear-gradient(
      rgba(0, 0, 0, 0.7),
-     rgba(15, 17, 19, 0.8)), url('images/bg.jpg');
+     rgba(15, 17, 19, 0.8)), url('../images/bg.jpg');
 
     display: flex;
     flex-direction: column;
